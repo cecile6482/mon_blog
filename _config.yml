@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 disqus:
-  shortname: pepile
+  shortname: https-cecile6482-github-io-mon-blog
 
 
 layout: default
