@@ -34,9 +34,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+disqus:
+  shortname: pepile
+
 
 layout: default
 comments: true
+
+
 # other options
 
 
