@@ -5,7 +5,7 @@ date: 2023-10-24
 
 # Le début d'une grande aventure !
 
-![Image debut aventure!](/_posts/assets/images/2023/24-10-23.png)
+![Image debut aventure!](/assets/images/2023/24102023.jpg){: .image2410 }
 
 Salut à tous ! 🚀
 
