@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# À propos de moi
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Bonjour ! Je m'appelle Cécile et bienvenue sur mon journal de bord.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Originaire de Lille, je suis actuellement en reconversion professionnelle pour devenir conceptrice / développeuse d'applications. Après une réflexion profonde sur ma carrière et ce que je souhaite accomplir, j'ai décidé de me lancer dans cette passionnante aventure avec M2I. Ma formation commence en octobre 2023 et se poursuivra jusqu'en janvier 2025.
 
+Ce blog est le reflet de mon parcours. Ici, je partagerai mes expériences, mes défis, mes réussites et tout ce que j'apprends en cours de route. Que vous soyez un professionnel aguerri du développement, un novice curieux ou simplement quelqu'un qui aime les belles histoires, j'espère que vous trouverez quelque chose d'intéressant ici.
 
-[jekyll-organization]: https://github.com/jekyll
+Lorsque je ne suis pas plongée dans le code, j'aime lire des romans policiers, regarder des documentaires sur des tueurs en série ou jouer au mahjong (je sais, même moi j'ai levé les yeux au ciel ...).
+
+Merci de me rejoindre dans cette aventure. Vos commentaires, encouragements et feedback sont toujours les bienvenus !
