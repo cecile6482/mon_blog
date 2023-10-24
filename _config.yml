@@ -23,7 +23,7 @@ email: cecile.elshtby@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Embarquez avec moi dans cette incroyable aventure de développement ! Découvrez mes hauts, mes bas et tout ce que j'apprends en cours de route. Alerte spoiler : je vais apprendre beaucoup... et probablement boire beaucoup de café en cours de route. Restez avec moi pour chaque étape (et chaque tasse) !
 baseurl: "/mon_blog" # the subpath of your site, e.g. /blog
-url: "https://cecile6482.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cecile6482.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: cecile-el-shtby-021986aa
 github_username:  cecile6482
 
