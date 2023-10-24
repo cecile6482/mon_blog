@@ -21,13 +21,11 @@
 title: Mon Blog
 email: cecile.elshtby@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Embarquez avec moi dans cette incroyable aventure de développement ! Découvrez mes hauts, mes bas et tout ce que j'apprends en cours de route. Alerte spoiler : je vais apprendre beaucoup... et probablement boire beaucoup de café en cours de route. Restez avec moi pour chaque étape (et chaque tasse) !
 baseurl: "/mon_blog" # the subpath of your site, e.g. /blog
 url: "https://cecile6482.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+linkedin_username: cecile-el-shtby-021986aa
+github_username:  cecile6482
 
 # Build settings
 theme: minima
