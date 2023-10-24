@@ -5,6 +5,8 @@ date: 2023-10-24
 
 # Le début d'une grande aventure !
 
+![Image debut aventure!](/_posts/assets/images/2023/24-10-23.png)
+
 Salut à tous ! 🚀
 
 Aujourd'hui, j'ai décidé de me lancer dans un projet un peu fou : tenir un **journal de bord** de ma formation en développement. Oui, vous avez bien lu. Je vais partager avec vous, chers lecteurs, chaque étape, chaque succès, chaque échec (espérons qu'ils soient rares 😅) et chaque découverte tout au long de mon parcours.
